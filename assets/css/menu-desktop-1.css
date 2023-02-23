@@ -299,8 +299,8 @@ body { font-family: 'Lato', sans-serif }
 .page-wrapper h1, .page-wrapper h2, .page-wrapper h3 { line-height: 1.2; font-weight: 900 }
 
 .page-wrapper h1 { font-size: calc(36px + (72 - 36) * ((100vw - 320px)/(3840 - 320))) }
-.page-wrapper h2 { font-size: calc(28px + (42 - 28) * ((100vw - 320px)/(3840 - 320))); color: blue }
-.page-wrapper h3 { font-size: calc(18px + (28 - 18) * ((100vw - 320px)/(3840 - 320))); color: blue }
+.page-wrapper h2 { font-size: calc(28px + (42 - 28) * ((100vw - 320px)/(3840 - 320))); color: #1e1e20 }
+.page-wrapper h3 { font-size: calc(18px + (28 - 18) * ((100vw - 320px)/(3840 - 320))); color: #1e1e20 }
 
 .page-wrapper p, 
 .page-wrapper li { font-size: calc(15px + (18 - 15) * ((100vw - 320px)/(1600 - 320))); line-height: 1.6  }
